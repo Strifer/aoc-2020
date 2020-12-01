@@ -1,5 +1,3 @@
-import UIKit
-
 func find_two_sum(equalTo sum: Int = 2020) -> (Int, Int) {
     let expenses = (readLines() ?? []).compactMap(Int.init)
     var complements = Set<Int>()

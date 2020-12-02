@@ -7,3 +7,5 @@ https://adventofcode.com/2020/about
 The daily puzzles will be solved in Swift and Python.
 
 [Day 01](Days/01/report_repair.md)
+
+[Day 02](Days/02/toboggan_passwords.md)
